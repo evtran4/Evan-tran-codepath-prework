@@ -3,7 +3,7 @@
 
 Submitted by: **Evan Tran**
 
-**Color Randomizer** is an app that randomly changes the screen's 'background color when the Change Color button is pressed   
+**Color Randomizer** is an app that randomly changes the screen's background color when the Change Color button is pressed   
 
 Time spent: **1** hours spent in total
 
